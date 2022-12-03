@@ -78,4 +78,4 @@ def run():
         # use cloudAMQP_client.sleep keep queue heartbeat
 
 if __name__ == '__main__':
-   app.run()
+   run()
